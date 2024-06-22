@@ -1,0 +1,25 @@
+body{
+  background-color: rgb(0, 207, 190);
+  color: white;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+}
+
+.nav-bar{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav-bar .nav-items{
+  padding: 18px;
+  font-size: 1.4rem;
+  font-weight: bold;
+}
+
+.nav-bar .nav-items:hover{
+  border-bottom: 3px solid rgb(0, 119, 155);
+}
