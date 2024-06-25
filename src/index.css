@@ -78,3 +78,12 @@ padding: 22px;
   width: 150px;
   height: 120px;
 }
+
+/*project*/
+
+.project h1{
+  margin-top: 120px;
+  margin-bottom: 70px;
+ text-align: center;
+ font-size: 100px;
+}
