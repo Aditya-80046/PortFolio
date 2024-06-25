@@ -1,5 +1,5 @@
 body{
-  background-color: rgb(0, 207, 190);
+  background-color: rgba(1, 9, 128, 0.568);
   color: white;
 }
 
@@ -40,11 +40,41 @@ a{
 }
 
 .home .left{
-  background-color: var(--bg-color);
   border-radius: 10px;
-  border: 1px solid blue;
   text-align: center;
-  box-shadow: var(--box-shadow);
   padding: 30px;
   width: 600px;
+}
+
+/*skills*/
+
+.skilss{
+  width: 900px;
+}
+
+.skills h1{
+  margin-top: 120px;
+  margin-bottom: 70px;
+ text-align: center;
+ font-size: 100px;
+}
+
+.skills .items{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  flex-wrap: wrap;
+}
+
+.skills .items .item{
+width: calc(29.33%);
+margin: 18px;
+text-align: center;
+padding: 22px;
+}
+
+.skills .items .item img{
+  width: 150px;
+  height: 120px;
 }

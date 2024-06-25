@@ -1,0 +1,41 @@
+[
+    {
+        "tittle":"HTML",
+        "imagesrc":"Skills/html.png"
+    },
+    
+    {
+        "tittle":"CSS",
+        "imagesrc":"Skills/css.png"
+    },
+    
+    {
+        "tittle":"Javascript",
+        "imagesrc":"Skills/javascript.png"
+    },
+    
+    {
+        "tittle":"React",
+        "imagesrc":"Skills/react.png"
+    },
+    
+    {
+        "tittle":"Nodejs",
+        "imagesrc":"Skills/nodejs.png"
+    },
+    
+    {
+        "tittle":"SQL",
+        "imagesrc":"Skills/sql.png"
+    },
+    
+    {
+        "tittle":"MongoDB",
+        "imagesrc":"Skills/mongodb.png"
+    },
+    
+    {
+        "tittle":"Wordpress",
+        "imagesrc":"Skills/wordpress.png"
+    }
+]

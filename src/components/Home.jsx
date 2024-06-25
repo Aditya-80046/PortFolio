@@ -8,7 +8,7 @@ function Home() {
     const option = {
       strings: [
         "My Name is Aditya Srivastava",
-        "I,m a Full Stack Developer",
+        "Full Stack Developer",
         "Wordpress Developer",
       ],
       typeSpeed: 50,
