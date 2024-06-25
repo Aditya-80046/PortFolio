@@ -24,14 +24,14 @@ function Home() {
 
   return (
     <>
-      <div className="container home">
-        <div className="left">
+      <div className="container home" id="Home">
+        <div className="left" data-aos="fade-right" data-aos-duration="1000">
           <h1 ref={introRef}></h1>
           <a href="" className="btn btn-outline-warning my-2">
             Resume
           </a>
         </div>
-        <div className="right">
+        <div className="right" data-aos="fade-left" data-aos-duration="1000">
           <div className="img">
             <img src={`/assets/${Logo.imgsrc}`} alt="" />
           </div>
